@@ -31,3 +31,7 @@ body{
 .fadeIn {
   animation-name: fadeIn;
 }
+
+.img-lgo{
+  width: 120px;
+}
